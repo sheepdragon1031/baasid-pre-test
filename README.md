@@ -30,6 +30,4 @@ $ yarn install & yarn start
 </div>
 *  完成首頁的RWD效果
 
-## 全覽圖
-![截圖](https://i.imgur.com/qpGd9yD.jpg)
 
