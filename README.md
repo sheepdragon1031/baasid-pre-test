@@ -4,7 +4,7 @@
 
 ## 如何使用
 
-在開發模式下運行應用程序。打開http://localhost:3000在瀏覽器中查看。
+在開發模式下運行應用程序。打開 http://localhost:3000 在瀏覽器中查看。
 
 ```=
 $ yarn install & yarn start
